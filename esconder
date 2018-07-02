@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width-device-width,initial-scale=1.0">
+	<title>Curso Premium CSS</title>
+	<link rel="stylesheet" href="css/index.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+	<a href="#">CF.com</a>
+	<a href="#-#">google</a>
+	<a href="###">CF.com</a>
+	<a href="#-33#">google</a>
+	<div class="container">
+		<h1 class="title">Extras en CSS</h1>
+	</div>
+	<div class="">
+		<img class="cat responsive" src="img/cat.jpg" alt="">
+		<img class="gopher responsive" src="img/gopher.png" alt="">
+	</div>
+	<div class="polaroid">
+		<img src="img/fondo1.jpg" width="300">
+		<div class="texto">
+			<p>Paisaje rosa</p>
+		</div>
+	</div>
+	<div class="polaroid">
+		<img src="img/fondo2.png" width="300">
+		<div class="texto">
+			<p>Playa</p>
+		</div>
+	</div>
+	<div class="polaroid">
+		<img src="img/cat.jpg" width="300">
+		<p class="imgtext">Para: </p>
+		<div class="texto">
+			<p>Gatito</p>
+		</div>
+	</div>
+	<div class="polaroid">
+		<img src="img/gopher.png" width="300">
+		<p class="imgtext">Para: </p>
+		<div class="texto">
+			<p>Gopher</p>
+		</div>
+	</div>
+	<!-- Thumbs -->
+	<!-- <img class="cat thumb" src="cat.jpg" alt="">
+	<img class="gopher thumb" src="gopher.png" alt=""> -->
+	<div class="cubo"></div>
+	<!-- <div class="ejercicios">
+		<div class="content"></div>
+		<h2 class="text">Me pareció ver a un lindo gatito</h2>
+	</div> -->
+</body>
+</html>
